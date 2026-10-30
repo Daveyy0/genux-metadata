@@ -1,0 +1,18 @@
+{
+  "name": "Genux Token List",
+  "timestamp": "2026-10-30T06:09:00Z",
+  "version": {"major": 1, "minor": 0, "patch": 0},
+  "tags": {},
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmWYhK2wrapSQBFymkr1XZxDtJ6doccxLfXHPvghfM1djf",
+  "keywords": ["genux", "gnx", "pancakeswap"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0000000000000000000000000000000000000000",
+      "name": "Genux",
+      "symbol": "GNX",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmWYhK2wrapSQBFymkr1XZxDtJ6doccxLfXHPvghfM1djf"
+    }
+  ]
+}
