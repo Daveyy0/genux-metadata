@@ -1,0 +1,24 @@
+{
+  "name": "Genux Miner #5390",
+  "description": "Genux Miner \u2014 a mining NFT on BNB Chain. Holding a Genux Miner gives exclusive access to mine GNX, the Genux token (100M fixed supply). Mint price $1, max 5 per wallet, 10,000 total. Levels raise mining weight: Lv1 1x, Lv2 2x, Lv3 4x.",
+  "image": "ipfs://QmWYhK2wrapSQBFymkr1XZxDtJ6doccxLfXHPvghfM1djf",
+  "external_url": "https://genux.example",
+  "attributes": [
+    {
+      "trait_type": "Collection",
+      "value": "Genux Miner"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "BNB Chain"
+    },
+    {
+      "trait_type": "Mining Access",
+      "value": "GNX Mining"
+    },
+    {
+      "trait_type": "Max Per Wallet",
+      "value": 5
+    }
+  ]
+}
